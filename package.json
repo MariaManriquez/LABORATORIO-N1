@@ -1,0 +1,19 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "Ejercicios",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ejercicios.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaManriquez/LABORATORIO-N1.git"
+  },
+  "author": "Maria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MariaManriquez/LABORATORIO-N1/issues"
+  },
+  "homepage": "https://github.com/MariaManriquez/LABORATORIO-N1#readme"
+}
